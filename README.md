@@ -1,2 +1,4 @@
 # gjk-js
-GJK for Javascript
+GJK implementation for Javascript
+
+Requires gl-matrix library: https://github.com/toji/gl-matrix/
